@@ -92,7 +92,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-[referer-parser]: https://github.com/snowplow/referer-parser
-[referers-yml]: https://github.com/snowplow/referer-parser/blob/master/referers.yml
+[referer-parser]: https://github.com/snowplow-referer-parser/referer-parser
+[referers-yml]: https://github.com/snowplow-referer-parser/referer-parser/blob/master/resources/referers.yml
 
 [license]: http://www.apache.org/licenses/LICENSE-2.0
